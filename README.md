@@ -22,17 +22,17 @@ Put the DetectBot. py in your home directory and the run with sudo./DetectBot. p
 
 Shortcuts:
 
-W drive forward
+	W drive forward
 
-S drive backward
+	S drive backward
 
-A drive left
+	A drive left
 
-D drive right
+	D drive right
 
-P stock program
+	P stock program
 
-Backspace hold down to drive the automatic search and find protocoll
+	Backspace hold down to drive the automatic search and find protocoll
 
 
 1. Hardware:

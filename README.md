@@ -1,6 +1,6 @@
 # DetectBot
 This little bugger doesn't like bottles.. So he tries to run them over!
-The DetectBot is programmed using the pre-made code from the Nvidia Jetson ''Hello world'' there are just a few more installations needed to be done to get it up and running.
+The DetectBot is programmed using the pre-made Nvidia JetPack 4.3 from the Nvidia Jetson ''Hello world'' there are just a few more installations needed to be done to get it up and running.
 
 
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own data set, set parameters for follow and avoid - remote control and video ransfere.
@@ -60,4 +60,3 @@ Jumper cables - https://www.banggood.com/40pcs-10cm-Female-To-Female-Jumper-Cabl
 Any 3-6S 500-1500mah LIPO battery, examble - https://www.banggood.com/TATTU-22_2V-1300mAh-75C-6S-XT60-Plug-Lipo-Battery-for-FPV-RC-Racing-Drone-p-1512837.html?rmmds=search&cur_warehouse=CN
 
 ### Price about 200 USD
-

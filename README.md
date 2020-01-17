@@ -20,7 +20,7 @@ Edit the DetectBot. py text file if you want to change parameters.
 You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image, if any packages are missing google from the download and follow instructions.
 Put the DetectBot. py in your home directory and the run with sudo./DetectBot. py.
 
-Shortcuts:
+	Shortcuts:
 
 	W drive forward
 
@@ -31,7 +31,6 @@ Shortcuts:
 	D drive right
 
 	P stock program
-
 	Backspace hold down to drive the automatic search and find protocoll
 
 

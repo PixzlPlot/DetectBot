@@ -35,11 +35,13 @@ Go to in to the DetectBot.py file and read from PIN configuration, you can use a
 
 ### Bill of materials
 
-Jetson Nano including JePack 4.3 image - https://developer.nvidia.com/buy-jetson
-
 Screwdriver
 
 Adhesive and glue
+
+Remote PC
+
+Jetson Nano including JePack 4.3 image - https://developer.nvidia.com/buy-jetson
 
 12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
 

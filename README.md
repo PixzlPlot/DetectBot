@@ -44,8 +44,13 @@ L298N Motor Driver - https://www.banggood.com/Wholesale-L298N-Dual-H-Bridge-Step
 Chassi - https://www.banggood.com/DIY-Aluminous-Smart-RC-Robot-Car-Tank-Chassis-Base-For-Single-Chip-UNO-p-1602880.html?rmmds=myorder&cur_warehouse=CN
 
 DS card 32GB+ - https://www.banggood.com/BlitzWolf-BW-TF1-Class-10-UHS-1-32GB-UHS-3-V30-64GB-128GB-Micro-SD-TF-Memory-Card-with-Adapter-p-1490559.html?rmmds=myorder&ID=43653&cur_warehouse=HK
+
 WiFi modul - https://www.banggood.com/Wareshare-Wireless-Network-Card-Intel-8265AC-8265NGW-2_4G5G-WIFI-bluetooth-4_2-Module-For-Jetson-Nano-p-1526308.html?rmmds=myorder&cur_warehouse=CN
+
 Acrylcase - https://www.banggood.com/Acrylic-Case-Box-with-Cooling-Fan-for-NVIDIA-Jetson-Nano-Developer-Module-Kit-Shell-Enclosure-Cooler-p-1524028.html?rmmds=myorder&ID=6263680&cur_warehouse=CN
+
 IMX219 160 degrees camera - https://www.banggood.com/Wareshare-IMX219-Camera-Module-Applicable-for-Jetson-Nano-77120160200-FOV-8-Megapixels-p-1526258.html?rmmds=myorder&ID=6263684&cur_warehouse=CN
+
 Jumper cables - https://www.banggood.com/40pcs-10cm-Female-To-Female-Jumper-Cable-Dupont-Wire-For-Arduino-p-994059.html?rmmds=myorder&cur_warehouse=CN
+
 Any 3-6S 500-1500mah LIPO battery, examble - https://www.banggood.com/TATTU-22_2V-1300mAh-75C-6S-XT60-Plug-Lipo-Battery-for-FPV-RC-Racing-Drone-p-1512837.html?rmmds=search&cur_warehouse=CN

@@ -30,12 +30,19 @@ Put the DetectBot. py in your home directory and the run with sudo./DetectBot. p
 
 
 1. Hardware:
+
 Jetson Nano - https://developer.nvidia.com/buy-jetson
+
 12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
+
 5V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
+
 L298N Motor Driver - https://www.banggood.com/Wholesale-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-42826.html?rmmds=myorder&cur_warehouse=CN
+
 2.1mm contact - https://www.banggood.com/Universal-USB-to-DC-Power-Plug-Cable-5_52_1mm-Adapter-5V-Charging-Wire-For-RC-Model-Monitor-Tablet-p-1412205.html?rmmds=myorder&cur_warehouse=CN
+
 Chassi - https://www.banggood.com/DIY-Aluminous-Smart-RC-Robot-Car-Tank-Chassis-Base-For-Single-Chip-UNO-p-1602880.html?rmmds=myorder&cur_warehouse=CN
+
 DS card 32GB+ - https://www.banggood.com/BlitzWolf-BW-TF1-Class-10-UHS-1-32GB-UHS-3-V30-64GB-128GB-Micro-SD-TF-Memory-Card-with-Adapter-p-1490559.html?rmmds=myorder&ID=43653&cur_warehouse=HK
 WiFi modul - https://www.banggood.com/Wareshare-Wireless-Network-Card-Intel-8265AC-8265NGW-2_4G5G-WIFI-bluetooth-4_2-Module-For-Jetson-Nano-p-1526308.html?rmmds=myorder&cur_warehouse=CN
 Acrylcase - https://www.banggood.com/Acrylic-Case-Box-with-Cooling-Fan-for-NVIDIA-Jetson-Nano-Developer-Module-Kit-Shell-Enclosure-Cooler-p-1524028.html?rmmds=myorder&ID=6263680&cur_warehouse=CN

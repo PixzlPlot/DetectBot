@@ -19,7 +19,7 @@ Trying to follow the Jebtbot instructions I soon realized that it expected a web
 ### Instructions
 Install JetPack 4.3 and build the repo from Nvidia Jetson nano "Hello World" edit the DetectBot.py text file if you want to change parameters for example key input, objects to detect, turning speed and so on.
 You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image you need to do the Nvidia Jetson setup to get some librarys and the nessesery files for object detection and GPIO library, if any packages are missing google fror the download and follow instructions to install.
-Put the DetectBot. py in your home directory and the run with sudo./DetectBot. py.
+Put the DetectBot. py in your home directory and the run with sudo./DetectBot.py.
 
 	Shortcuts:
 	W drive forward

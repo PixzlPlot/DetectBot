@@ -1,24 +1,24 @@
 # DetectBot
-This little bugger dont like bottles.. Soo he trys to run them over!
-The DetectBot is programed using the pre-made repos from ''Hello world'' there is just a few more installations needed to be done to get it up and running.
+This little bugger doesn't like bottles.. So he tries to run them over!
+The DetectBot is programmed using the pre-made reports from ''Hello world'' there are just a few more installations needed to be done to get it up and running.
 
 
-Multi object detec from SSD-Mobilenet-v2 using 91-COCO classes or by making you'r own data set, set parameers for follow and avoidence - remote control and video ransfere.
+Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own data set, set parameters for follow and avoid - remote control and video ransfere.
 
 
-This robot will after being trained be able to go on aoutopilot and classify objects and when finding presset objects it can also find them and follow, if the trained network has some problems the remote PC can controll the bot whit a keybord.
+This robot will after being trained to be able to go on autopilot and classify objects and when finding present objects it can also find them and follow, if the trained network has some problems with the remote PC can control the boat whit a keyboard.
 
 
-DetectBot will be able to be remotecontrolled using any Linux/windows PC.
-For video/keybord streeming download noMachine to bouth pc and Jetson Nano - https://www.nomachine.com/download
+DetectBot will be able to be remotely controlled using any Linux/Windows PC.
+For video/keyboard streaming download NoMachine to both PC and Jetson Nano - https://www.nomachine.com/download
 
 
-Tring to follow the Jebo tourerial i sone relized that it expected a webcam o be used whit Jupierlab and i where using the MSI camera futhermore i like to have more controll then one gets in Jupiterlab so i decided to do my own prodject using the Jetson Nano image.
+Trying to follow the Jebo trail I soon realized that it expected a webcam to be used whit Jupierlab and I were using the MSI camera furthermore, I like to have more control than one gets in Jupiterlab so I decided to do my own project using the Jetson Nano image.
 
 Instructions:
-Eddit the DetectBot.py text file if you want to change parameters.
-You might need to install some pakageges used in the file, as of now i am unsure what are pre-installed on the Jetson image, if any pakages are missing google for the download and follow instructions.
-Put the DetectBot.py in you'r home derectory and the run whit sudo ./DetectBot.py.
+Edit the DetectBot. py text file if you want to change parameters.
+You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image, if any packages are missing google from the download and follow instructions.
+Put the DetectBot. py in your home directory and the run with sudo./DetectBot. py.
 
 Shortcuts:
 

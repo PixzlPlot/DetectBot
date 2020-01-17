@@ -3,7 +3,7 @@ This little bugger doesn't like bottles.. So he tries to run them over!
 The DetectBot is programmed using the pre-made Nvidia JetPack 4.3 from the Nvidia Jetson ''Hello world'' there are just a few more installations needed to be done to get it up and running.
 
 
-Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own dataset, set parameters for follow and avoid - remote control and video ransfere.
+Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own dataset, you can set manual parameters for follow and avoidance - remote control and video ransfere.
 
 
 This robot will after being trained be able to go on autopilot/classify objects and when finding present objects it can find and identefy/follow, if the trained network has some problems you can whit a remote PC control the Bot whit a keyboard.

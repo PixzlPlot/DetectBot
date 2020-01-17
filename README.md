@@ -6,17 +6,16 @@ The DetectBot is programmed using the pre-made reports from ''Hello world'' ther
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own data set, set parameters for follow and avoid - remote control and video ransfere.
 
 
-This robot will after being trained to be able to go on autopilot and classify objects and when finding present objects it can also find them and follow, if the trained network has some problems with the remote PC can control the boat whit a keyboard.
+This robot will after being trained be able to go on autopilot/classify objects and when finding present objects it can find and identefy/follow, if the trained network has some problems you can whit a remote PC control the Bot whit a keyboard.
 
 
-DetectBot will be able to be remotely controlled using any Linux/Windows PC.
-For video/keyboard streaming download NoMachine to both PC and Jetson Nano - https://www.nomachine.com/download
+DetectBot can be remotely controlled using any Linux/Windows/Mac PC using noMachine,
+for video/keyboard streaming download NoMachine to both PC and Jetson Nano - https://www.nomachine.com/download
 
-
+### Rationale
 Trying to follow the Jebo trail I soon realized that it expected a webcam to be used whit Jupierlab and I were using the MSI camera furthermore, I like to have more control than one gets in Jupiterlab so I decided to do my own project using the Jetson Nano image.
 
-### Instructions:
-
+### Instructions
 Edit the DetectBot. py text file if you want to change parameters.
 You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image, if any packages are missing google fror the download and follow instructions to install.
 Put the DetectBot. py in your home directory and the run with sudo./DetectBot. py.
@@ -55,3 +54,6 @@ IMX219 160 degrees camera - https://www.banggood.com/Wareshare-IMX219-Camera-Mod
 Jumper cables - https://www.banggood.com/40pcs-10cm-Female-To-Female-Jumper-Cable-Dupont-Wire-For-Arduino-p-994059.html?rmmds=myorder&cur_warehouse=CN
 
 Any 3-6S 500-1500mah LIPO battery, examble - https://www.banggood.com/TATTU-22_2V-1300mAh-75C-6S-XT60-Plug-Lipo-Battery-for-FPV-RC-Racing-Drone-p-1512837.html?rmmds=search&cur_warehouse=CN
+
+### Price about 200 USD
+

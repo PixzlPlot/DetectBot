@@ -1,6 +1,6 @@
 # DetectBot
 This little bugger doesn't like bottles.. So he tries to run them over!
-The DetectBot is programmed using the pre-made reports from ''Hello world'' there are just a few more installations needed to be done to get it up and running.
+The DetectBot is programmed using the pre-made poce from the Nvidia Jetson ''Hello world'' there are just a few more installations needed to be done to get it up and running.
 
 
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own data set, set parameters for follow and avoid - remote control and video ransfere.

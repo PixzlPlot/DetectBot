@@ -21,11 +21,17 @@ You might need to install some pakageges used in the file, as of now i am unsure
 Put the DetectBot.py in you'r home derectory and the run whit sudo ./DetectBot.py.
 
 Shortcuts:
+
 W drive forward
+
 S drive backward
+
 A drive left
+
 D drive right
+
 P stock program
+
 Backspace hold down to drive the automatic search and find protocoll
 
 

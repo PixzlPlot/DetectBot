@@ -13,6 +13,7 @@ DetectBot can be remotely controlled using any Linux/Windows/Mac PC using noMach
 for video/keyboard streaming download NoMachine to both PC and Jetson Nano - https://www.nomachine.com/download
 
 ### Rationale
+I decided to make a high end autonomous navigation system as a UNI final exam project, but there is a catch I had no idea how object detection worked, further more I had never programmed in Python or handled board outputs, so with this in mind I realized I had to start somewhere.. I found the Jetson Nano and wanted to make a Jetbot without using their chassi.
 Trying to follow the Jebtbot instructions I soon realized that it expected a webcam to be used whit Jupierlab and I were using the MSI camera, furthermore I like to have more control than one gets in Jupiterlab so I decided to do my own project using the Jetson Nano image.
 
 ### Instructions

@@ -35,11 +35,11 @@ Go to in to the DetectBot.py file and read from PIN configuration, you can use a
 
 ### Bill of materials
 
-Screwdriver
+Screwdriver - https://www.banggood.com/Raitool-110-in-1-Insulation-Screwdriver-Set-With-Tweezer-Magnetic-Bits-Kits-DIY-Watch-Phone-Electronics-Repairing-Tools-p-1507384.html?rmmds=search
 
-Adhesive and glue
+Adhesive and glue -https://www.banggood.com/3M-Double-Sided-Adhesive-Tape-Acrylic-Transparent-No-Traces-Sticker-for-LED-Strip-Car-Fixed-Phone-Tablet-Fixed-p-1441765.html?rmmds=search&ID=514321&cur_warehouse=CN and https://www.banggood.com/20g-401-Instant-Adhesive-Rapid-Stronger-Super-Glue-for-DIY-Crafts-Jewelry-p-1199164.html?rmmds=search&cur_warehouse=CN
 
-Remote PC
+Remote PC - Any home PC
 
 Jetson Nano including JePack 4.3 image - https://developer.nvidia.com/buy-jetson
 

@@ -9,7 +9,7 @@ Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your
 This robot will after being trained be able to go on autopilot/classify objects and when finding present objects it can find and identefy/follow, if the trained network has some problems you can whit a remote PC control the Bot whit a keyboard.
 
 
-DetectBot can be remotely controlled using any Linux/Windows/Mac PC using noMachine,
+DetectBot can be remotely controlled using any Linux/Windows/Mac PC using noMachine, However, it needs an HDMI connected before NoMachine can render the correct size of the screen, so connect an HDMI screen.. start the DetectBot and wait 1 min after that it can be disconnected.
 for video/keyboard streaming download NoMachine to both PC and Jetson Nano - https://www.nomachine.com/download
 
 ### Rationale

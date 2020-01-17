@@ -1,8 +1,8 @@
 # DetectBot
-Detect objects and follow - allso remote control and video
-
 This little bugger dont like bottles.. Soo he trys to run them over!
 The DetectBot is programed using the pre-made repos from ''Hello world'' there is just a few more installations needed to be done to get it up and running.
+
+Multi object detec from SSD-Mobilenet-v2 using 91-COCO classes or by making you'r own data set, set parameers for follow and avoidence - remote control and video ransfere.
 
 This robot will after being trained be able to go on aoutopilot and classify objects and when finding presset objects it can also find them and follow, if the trained network has some problems the remote PC can antroll the bot whit its keybord.
 
@@ -12,7 +12,7 @@ For video/keybord streeming download noMachine to bouth pc and Jetson Nano - htt
 
 
 
-
+Tring to follow the Jebo tourerial i sone relized that it expected a webcam o be used whit Jupierlab and i where using the MSI camera futhermore i like o have more controll then one gets in Jupiterlab so i decided to do my own prodject using the Jetson Nano image.
 
 
 

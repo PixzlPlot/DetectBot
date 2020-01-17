@@ -43,7 +43,7 @@ Remote PC - Any home PC
 
 Jetson Nano including JePack 4.3 image - https://developer.nvidia.com/buy-jetson
 
-12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
+12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder or 500mah 3S LIPO
 
 5V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
 

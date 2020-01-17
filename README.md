@@ -36,6 +36,7 @@ Backspace hold down to drive the automatic search and find protocoll
 
 
 1. Hardware:
+
 Jetson Nano - https://developer.nvidia.com/buy-jetson
 
 12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder

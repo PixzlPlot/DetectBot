@@ -79,9 +79,9 @@ GPIO.setwarnings(False)
 
 
 
-# set motor pint any GIPO will do
+# set motor pint number of L298N conection any GIPO will do
 
-# for right Motor on 
+# for right Motor 
 
 ENA = 33
 
@@ -121,7 +121,7 @@ GPIO.setup(IN4, GPIO.OUT, initial=GPIO.LOW)
 
 
  
-#Manual controll whit keybord
+#Manual control whit keyboard
 def getch():
 
     fd = sys.stdin.fileno()
@@ -206,12 +206,11 @@ display = jetson.utils.glDisplay()
  
 
 # process frames until user exits
-
 while display.IsOpen():
 
  
 
-#Looks for keybord imput
+    #Looks for keybord input
 
     char = getch()
 
@@ -228,9 +227,7 @@ while display.IsOpen():
     GPIO.output(IN4, GPIO.HIGH)
 
 
-#If imput is found then:
-
- 
+#If input is found :
 
     if (char == "p"):
 
@@ -331,8 +328,8 @@ GPIO.cleanup()
         DetectedCenter = detection.Center[0]
         ClassID = detection.ClassID
 
- #If there is a obstcle
-    # backup and go left
+ #If there is an obstacle
+    # Back up and go left
         if (ClassID == 100): 
 
             print("Going around")
@@ -360,13 +357,13 @@ GPIO.cleanup()
 
  
 
-#If object is detected then go left if bottle is to the left of the center
-# and go right if the bottle is to the right of the center
+#If an object is detected, then go left if the bottle is to the left of the center 
+#and go right if the bottle is to the right of the center
 
         elif (ClassID == 44): #INPUT NUMBER-CODE OF OBJECT TO BE FOLLOWED
    print("Object found") 
 
-#Detecting object on the right side of the screen
+            #Detecting object on the right side of the screen
             if(DetectedCenter < 960): # go little to the left and then forward
 
        print("Going left")
@@ -424,10 +421,4 @@ GPIO.cleanup()
 # render the image
 
     display.RenderOnce(img, width, height)
-
- 
-
-# update the title bar
-
-    #display.SetTitle("{:s} | Network {:.0f} FPS".format(opt.network, net.GetNetworkFPS()))
 

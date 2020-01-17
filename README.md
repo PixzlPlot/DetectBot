@@ -16,6 +16,7 @@ For video/keyboard streaming download NoMachine to both PC and Jetson Nano - htt
 Trying to follow the Jebo trail I soon realized that it expected a webcam to be used whit Jupierlab and I were using the MSI camera furthermore, I like to have more control than one gets in Jupiterlab so I decided to do my own project using the Jetson Nano image.
 
 Instructions:
+
 Edit the DetectBot. py text file if you want to change parameters.
 You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image, if any packages are missing google from the download and follow instructions.
 Put the DetectBot. py in your home directory and the run with sudo./DetectBot. py.

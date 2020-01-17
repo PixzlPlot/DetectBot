@@ -25,7 +25,7 @@ Put the DetectBot. py in your home directory and the run with sudo./DetectBot. p
 	S drive backward
 	A drive left
 	D drive right
-	P stop and quit then program
+	P stop and quit the program
 	Backspace hold down to drive the automatic search and find protocoll
 
 ### Setup

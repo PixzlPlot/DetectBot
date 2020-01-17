@@ -31,7 +31,7 @@ Put the DetectBot. py in your home directory and the run with sudo./DetectBot. p
 ### Setup
 Sadly enught i dont have any instructions for asembly, get som double sided adhesive and a screwdriver and you'll be set. Some pichures on the assembeld bot - Note this is not the final product so it is stillin alfa state and looks like this after trial and error.
 
-Go to in to the DetectBot. by file and read from PIN configuration, you can use any GPIO pins for setup however you need to change the numbers accordingly in the DetectBot.py file.
+Go to in to the DetectBot.py file and read from PIN configuration, you can use any GPIO pins for setup however you need to change the numbers accordingly in the DetectBot.py file, or see the electrical diagram for refrence GPIO info.
 
 ### List of materials
 

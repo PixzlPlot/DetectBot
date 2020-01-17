@@ -33,9 +33,13 @@ Sadly enught i dont have any instructions for asembly, get som double sided adhe
 
 Go to in to the DetectBot.py file and read from PIN configuration, you can use any GPIO pins for setup however you need to change the numbers accordingly in the DetectBot.py file, or see the electrical diagram for refrence GPIO info.
 
-### List of materials
+### Bill of materials
 
-Jetson Nano - https://developer.nvidia.com/buy-jetson
+Jetson Nano including JePack 4.3 image - https://developer.nvidia.com/buy-jetson
+
+Screwdriver
+
+Adhesive and glue
 
 12V UBEC - https://www.banggood.com/DC-DC-Converter-Step-Down-Module-UBEC-3A-5V-12V-BEC-For-RC-Airplane-FPV-p-981978.html?rmmds=myorder
 

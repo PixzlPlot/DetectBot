@@ -8,7 +8,7 @@ This little bugger like candy.. So he tries to run them over! The DetectBot is p
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own dataset, you can set manual parameters for follow and avoidance - remote control and video transfer. In the demo I've taken pictures of a candy and the different object i'd like the bot to avoid
 
 
-This robot will after being trained be able to go on autopilot/classify objects and when finding present objects it can find and identefy/follow, if the trained network has some problems you can whit a remote PC control the Bot whit a keyboard.
+This robot will after being trained be able to go on autopilot/classify objects and when finding pre-set objects it can find and identefy/follow, if the trained network has some problems you can whit a remote PC control the Bot whit a keyboard.
 
 
 DetectBot can be remotely controlled using any Linux/Windows/Mac PC using noMachine, however it needs an HDMI connected before NoMachine can render the correct size of the screen, so connect an HDMI screen.. start the DetectBot and wait 1 min after that it can be disconnected.

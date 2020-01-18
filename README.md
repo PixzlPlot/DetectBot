@@ -1,6 +1,8 @@
 ### DetectBot
 This little bugger like candy.. So he tries to run them over! The DetectBot is programmed using the pre-made Nvidia JetPack 4.3 from the Nvidia Jetson ''Hello world'' there are just a few more installations needed to be done to get it up and running.
 
+![DetectBot](https://github.com/CrazyShrimp-pixelPlot/DetectBot/blob/master/IMG_4356.JPG)
+
 	 Note: This is built is in Alpha state - everything works, however hardware and software needs some improvements before being called a Beta build and ready for serious testing
 
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own dataset, you can set manual parameters for follow and avoidance - remote control and video transfer. In the demo I've taken pictures of a candy and the different object i'd like the bot to avoid

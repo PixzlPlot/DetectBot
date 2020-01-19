@@ -4,6 +4,7 @@ This little bugger like candy.. So he tries to run them over! The DetectBot is p
 ![DetectBot](https://github.com/CrazyShrimp-pixelPlot/DetectBot/blob/master/IMG_4411.JPG)
 
 	 Note: This is built is in Alpha state - everything works, however hardware and software needs some improvements before being called a Beta build and ready for serious testing
+Due to the lack of time the harwaresetup and program code is as of now just made to work it will be updated in the future.
 
 Multi object dates from SSD-Mobilenet-v2 using 91-COCO classes or by making your own dataset, you can set manual parameters for follow and avoidance - remote control and video transfer. In the demo I've taken pictures of a candy and the different object i'd like the bot to avoid
 

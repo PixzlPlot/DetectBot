@@ -26,6 +26,8 @@ You might need to install some packages used in the file, as of now I am unsure 
 Put the DetectBot. py in your home directory and the run with sudo./DetectBot.py.
 
 	Make your own object detection data set with Nvidia DIGITS follow the instructions here: https://www.coria.com/insights/blog/computer-vision/preparing-data-for-custom-object-detection-using-nvidia-digits
+	and to load/use model 
+	https://jkjung-avt.github.io/detectnet-training/
 
 When starting the program you have to put the comandwindow on top, I recommend to keep it as small as possible so not to disturb, after a few Sec clicks the window to activate it and Puch any button a few Sec later repeat.
 Now the Camera could have one image to show, if so the program is ready to be used.. See the video for a demo.

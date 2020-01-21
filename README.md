@@ -4,6 +4,7 @@ This little bugger like candy.. So he tries to run them over! The DetectBot is p
 ![DetectBot](https://github.com/PixzlPlot/DetectBot/blob/master/IMG_4524.JPG)
 
 	 Note: This is built is in Alpha state - everything works, however hardware and software needs some improvements before being called a Beta build and ready for serious testing
+https://www.youtube.com/watch?v=XyKLf2n1ojw
 
 Due to the lack of time the hardware setup and program code is as of now just made to work it will be updated in the future.
 The CandyNet detect program is only trained on about 100 images and whit a black surface, I decided to use 50x50 to 400x400 bounding boxes so the bot is unable to detect candy more than about 30cm from the camera, this can be remedied/improved with settings when creating a new detection model.

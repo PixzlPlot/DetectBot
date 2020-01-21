@@ -4,6 +4,7 @@ This little bugger like candy.. So he tries to run them over! The DetectBot is p
 ![DetectBot](https://github.com/PixzlPlot/DetectBot/blob/master/IMG_4524.JPG)
 
 	 Note: This is built is in Alpha state - everything works, however hardware and software needs some improvements before being called a Beta build and ready for serious testing
+
 Due to the lack of time the hardware setup and program code is as of now just made to work it will be updated in the future.
 The CandyNet detect program is only trained on about 100 images and whit a black surface, I decided to use 50x50 to 400x400 bounding boxes so the bot is unable to detect candy more than about 30cm from the camera, this can be remedied/improved with settings when creating a new detection model.
 
@@ -23,7 +24,7 @@ Trying to follow the Jebtbot instructions I soon realized that it expected a web
 ### Instructions
 Install JetPack 4.3 and build the repo from Nvidia Jetson nano "Hello World" edit the DetectBot.py text file if you want to change parameters for example key input, objects to detect, turning speed and so on.
 You might need to install some packages used in the file, as of now I am unsure what are pre-installed on the Jetson image you need to do the Nvidia Jetson setup to get some librarys and the nessesery files for object detection and GPIO library, if any packages are missing google for the download and follow instructions to install.
-Put the DetectBot. py in your home directory and the run with sudo./DetectBot.py.
+Put the DetectBot.py in your home directory and the run with sudo./DetectBot.py.
 
 	Make your own object detection data set with Nvidia DIGITS follow the instructions here: https://www.coria.com/insights/blog/computer-vision/preparing-data-for-custom-object-detection-using-nvidia-digits
 	and to load/use model 
@@ -32,10 +33,10 @@ Put the DetectBot. py in your home directory and the run with sudo./DetectBot.py
 When starting the program you have to put the comandwindow on top, I recommend to keep it as small as possible so not to disturb, after a few Sec clicks the window to activate it and Puch any button a few Sec later repeat.
 Now the Camera could have one image to show, if so the program is ready to be used.. See the video for a demo.
 
-	To start SSD-Mobilenet-v2 91-COCO detection just run DetectBot_default_COCO_ network.py file
+	To start SSD-Mobilenet-v2 91-COCO detection just run DetectBot.py file
 	If you want to run the CandyNet.py you need to download the CandyNet-model and put it in the home derecory, then run command:
 	
-	NET = CandyNet-model
+	NET = DetectBot.py
 	sudo ./CandyNet.py
 	--
 

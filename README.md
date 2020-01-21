@@ -35,11 +35,13 @@ When starting the program you have to put the comandwindow on top, I recommend t
 Now the Camera could have one image to show, if so the program is ready to be used.. See the video for a demo.
 
 	To start SSD-Mobilenet-v2 91-COCO detection just run DetectBot.py file
-	If you want to run the CandyNet.py you need to download the CandyNet-model and put it in the home derecory, then run command:
+	If you want to run the CandyNet you need to download the CandyNet.gz and put it in the home derecory, then run command:
 	
-	NET = DetectBot.py
-	sudo ./CandyNet.py
-	--
+	NET=CandyNet.gz
+
+	./DetectBot.py --width=1280 --height=720 --threshold=0.3 \
+	--prototxt=$NET/deploy.prototxt \
+	--model=$NET/snapshot_iter_4000.caffemodel
 
 	Shortcuts:
 	W drive forward

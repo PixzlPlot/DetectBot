@@ -119,7 +119,7 @@ def getch():
     return ch
 
 
-#IMPORTANT changing width and height will make you in need to changing object detection prtameters on rows 350 and onwards.
+#IMPORTANT changing width and height will make you in need to changing object detection prtameters on rows 321/337.
 # parse the command line - part of the object detection program. Used to set optional parameters like width and height of camera pichure
 
 parser = argparse.ArgumentParser(description="Locate objects in a live camera stream using an object detection DNN.",
@@ -159,7 +159,7 @@ except:
 
  
 
-# load the object detection network
+# load the object detection networ
 net = jetson.inference.detectNet(opt.network, sys.argv, opt.threshold)
 
 # create the camera and display
@@ -249,7 +249,7 @@ while display.IsOpen():
       GPIO.output(ENA, GPIO.HIGH)
       GPIO.output(IN1, GPIO.LOW)
       GPIO.output(IN2, GPIO.LOW)
-    	GPIO.output(IN3, GPIO.LOW)
+      GPIO.output(IN3, GPIO.LOW)
       GPIO.output(IN4, GPIO.LOW)
 
  
@@ -300,7 +300,7 @@ while display.IsOpen():
           GPIO.output(IN1, GPIO.LOW)
           GPIO.output(IN2, GPIO.LOW)
           GPIO.output(IN3, GPIO.LOW)
-    	    GPIO.output(IN4, GPIO.LOW)
+    	  GPIO.output(IN4, GPIO.LOW)
           time.sleep(button_delay / auto_turn_delay)
           GPIO.output(IN1, GPIO.HIGH)
           GPIO.output(IN2, GPIO.HIGH)
